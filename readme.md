@@ -20,7 +20,7 @@
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+![Rosé Pine with K9s](assets/k9s-rose-pine.png)
 
 ## Thanks to
 
