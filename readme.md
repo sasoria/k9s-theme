@@ -15,7 +15,7 @@
 
 1. Make sure `$XDG_CONFIG_HOME` is set as an evnironment variable
 2. Create a foler called k9s under `$XDG_CONFIG_HOME`
-3. Copy `skin.yml` from this repository to the k9s folder
+3. Copy skin.yml from this repository to the k9s folder
 4. Start K9s as normal to see the new theme
 
 ## Gallery
