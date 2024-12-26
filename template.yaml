@@ -1,0 +1,101 @@
+k9s:
+  body:
+    fgColor: '$text'
+    bgColor: '$base'
+    logoColor: '$iris'
+  prompt:
+    fgColor: '$text'
+    bgColor: '$surface'
+    suggestColor: '$foam'
+  help:
+    fgColor: '$text'
+    bgColor: '$base'
+    sectionColor: '$pine'
+    keyColor: '$foam'
+    numKeyColor: '$rose'
+  frame:
+    title:
+      fgColor: '$pine'
+      bgColor: '$base'
+      highlightColor: '$iris'
+      counterColor: '$gold'
+      filterColor: '$pine'
+    border:
+      fgColor: '$iris'
+      focusColor: '$foam'
+    menu:
+      fgColor: '$text'
+      keyColor: '$foam'
+      numKeyColor: '$rose'
+    crumbs:
+      fgColor: '$base'
+      bgColor: '$iris'
+      activeColor: '$rose'
+    status:
+      newColor: '$foam'
+      modifyColor: '$foam'
+      addColor: '$pine'
+      pendingColor: '$love'
+      errorColor: '$love'
+      highlightColor: '$rose'
+      killColor: '$iris'
+      completedColor: '$subtle'
+  info:
+    fgColor: '$love'
+    sectionColor: '$text'
+  views:
+    table:
+      fgColor: '$text'
+      bgColor: '$base'
+      cursorFgColor: '$surface'
+      cursorBgColor: '$base'
+      markColor: '$iris'
+      header:
+        fgColor: '$gold'
+        bgColor: '$base'
+        sorterColor: '$rose'
+    xray:
+      fgColor: '$text'
+      bgColor: '$base'
+      cursorColor: '$highlightHigh'
+      cursorTextColor: '$base'
+      graphicColor: '$iris'
+    charts:
+      bgColor: '$base'
+      chartBgColor: '$base'
+      dialBgColor: '$base'
+      defaultDialColors:
+        - '$pine'
+        - '$love'
+      defaultChartColors:
+        - '$pine'
+        - '$love'
+      resourceColors:
+        cpu:
+          - '$iris'
+          - '$foam'
+        mem:
+          - '$gold'
+          - '$love'
+    yaml:
+      keyColor: '$foam'
+      valueColor: '$text'
+      colonColor: '$subtle'
+    logs:
+      fgColor: '$text'
+      bgColor: '$base'
+      indicator:
+        fgColor: '$foam'
+        bgColor: '$base'
+        toggleOnColor: '$pine'
+        toggleOffColor: '$subtle'
+  dialog:
+    fgColor: '$gold'
+    bgColor: '$muted'
+    buttonFgColor: '$base'
+    buttonBgColor: '$text'
+    buttonFocusFgColor: '$base'
+    buttonFocusBgColor: '$iris'
+    labelFgColor: '$rose'
+    fieldFgColor: '$text'
+
