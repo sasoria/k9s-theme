@@ -32,7 +32,7 @@ k9s:
 ## Thanks to
 
 - [sasoria](https://github.com/sasoria)
-- bomgar(https://github.com/bomgar)
+- [bomgar](https://github.com/bomgar)
 
 # Generate
 
